@@ -2,8 +2,8 @@
 // Konfigurace datasetu a seznam všech dostupných obrázků
 // - draw: kolik párů se má losovat do pexesa (default si můžeš měnit)
 window.DATASET = {
-  draw: 16,   // kolik položek (párů) se náhodně vybere do pexesa
-  columns: 8, // počet sloupců pexesa
+  draw: 9,   // kolik položek (párů) se náhodně vybere do pexesa
+  columns: 6, // počet sloupců pexesa
   cardSize: 150, //velikost ctverecku pexesa
   items: [
 { file: "obr1.jpg", name: "zkumavky" },
